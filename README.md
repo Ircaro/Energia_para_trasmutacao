@@ -1,7 +1,7 @@
 # Energia para trasmutacao
 
 _Em Fullmetal Alchemist alquimistas conseguem, com a ajuda de padrões chamados círculos de transmutação, transformar um objeto em outro. Um alquimista precisa saber qual a chance da transmutação que ele está querendo realizar dar certo para que ele consiga transformar um objeto no objeto que ele quer.
-_A quantidade de energia necessária para realizar uma transmutação (E) é dada pelo nível da diferença entre os objetos (D) e pelo nível de imprecisão do círculo de transmutação (P), tal que E = D * P / (D + P + 1). Você foi contratado para, dados o nível da diferença entre os objetos D e o nível de imprecisão do círculo de transmutação P, qual é a quantidade de energia necessária para realizar a transmutação.
+A quantidade de energia necessária para realizar uma transmutação (E) é dada pelo nível da diferença entre os objetos (D) e pelo nível de imprecisão do círculo de transmutação (P), tal que E = D * P / (D + P + 1). Você foi contratado para, dados o nível da diferença entre os objetos D e o nível de imprecisão do círculo de transmutação P, qual é a quantidade de energia necessária para realizar a transmutação._
 
 ### Entrada
 
